@@ -5,3 +5,15 @@
   text-align: center;
 }
 
+.city-list {
+  position: inherit;
+  top: 100px;
+}
+
+.city-details {
+  margin-top: 100vw;
+}
+
+.home-link {
+  margin-bottom: 30vw;
+}
